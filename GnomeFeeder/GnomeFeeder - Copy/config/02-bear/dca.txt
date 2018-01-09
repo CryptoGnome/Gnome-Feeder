@@ -1,16 +1,4 @@
-﻿enabled = true
-max_cost = 0
-max_buy_times = 5
-
-#-----------------------------------------------------------------------
-#BUY SETTINGS #1
-#buy_strategy = ANDERSON
-#buy_style = DOUBLEDOWN
-#buy_trigger_1 = -0.75
-#buy_trigger_2 = -1.5
-#buy_trigger_3 = -2.25
-#buy_trigger_4 = -3.77
-#buy_trigger_5 = -4.77
+﻿
 
 #BUY SETTINGS #2
 buy_strategy = ANDERSON
@@ -25,22 +13,3 @@ buy_trigger_7 = -25.5
 
 
 
-
-trailing_buy = 0.05
-
-#-----------------------------------------------------------------------
-sell_strategy = GAIN
-sell_value = 1
-trailing_profit = 0.166
-
-#-----------------------------------------------------------------------
-# max spread % between lowest ask and highest bid  to allow a new buy order
-# if spread is too big, most likely there was a coin dump/pump and you are buying too high
-max_buy_spread = 10
-
-pending_order_wait_time = 0
-ignore_sell_only_mode = true
-
-stop_loss_trigger = 0
-
-#----------------------------------------------------------

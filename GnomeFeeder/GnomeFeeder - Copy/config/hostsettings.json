@@ -2,9 +2,9 @@
   "Host": {
     "TrexPairsLocation": "C:\\Users\\Administrator\\Desktop\\ProfitTrailer\\ProfitTrailer\\trading",
     "PoloPairsLocation": "",
-    "PoloPairsLocation": "",
+   "PoloPairsLocation": "",
     "BinancePairsLocation": "",
-    "LicenseKey": "PUT YOUR KEY HERE",
+    "LicenseKey": "YOUR KEY GOES HERE",
     "ServerUrls": "http://localhost:8083",
     "MarketConditionCheckInMinutes": "3",
     "CalculateTrailingValues": "true",
