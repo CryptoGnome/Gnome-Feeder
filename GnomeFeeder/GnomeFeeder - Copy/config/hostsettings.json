@@ -2,7 +2,6 @@
   "Host": {
     "TrexPairsLocation": "C:\\Users\\Administrator\\Desktop\\ProfitTrailer\\ProfitTrailer\\trading",
     "PoloPairsLocation": "",
-   "PoloPairsLocation": "",
     "BinancePairsLocation": "",
     "LicenseKey": "YOUR KEY GOES HERE",
     "ServerUrls": "http://localhost:8083",
