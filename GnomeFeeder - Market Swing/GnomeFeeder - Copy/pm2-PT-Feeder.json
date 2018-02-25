@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "pt-feeder",
+      "cwd": ".",
+      "script": "pt-feeder.dll",
+      "node_args": [],
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
+      "exec_interpreter": "dotnet",
+      "exec_mode": "fork",
+      "autorestart": false
+    }
+  ]
+}
