@@ -1,0 +1,18 @@
+{
+  "Host": {
+    "TrexPairsLocation": "C:\\Users\\Administrator\\Desktop\\ProfitTrailer\\ProfitTrailer\\trading",
+    "PoloPairsLocation": "",
+    "BinancePairsLocation": "",
+    "LicenseKey": "YOUR KEY GOES HERE",
+    "ServerUrls": "http://localhost:8083",
+    "MarketConditionCheckInMinutes": "5",
+    "CalculateTrailingValues": "true",
+    "UseMaxCostPercentage": "false",
+    "UseMinBuyBalancePercentage": "true",
+    "TelegramBotId": "",
+    "TelegramChatId": ""
+  },
+  "Serilog": {
+    "MinimumLevel": "Debug"
+  }
+}

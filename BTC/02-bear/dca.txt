@@ -1,0 +1,15 @@
+﻿
+
+#BUY SETTINGS #2
+buy_strategy = ANDERSON
+buy_style = DOUBLEDOWN
+buy_trigger_1 = -1.0
+buy_trigger_2 = -4.5
+buy_trigger_3 = -7.5
+buy_trigger_4 = -14.5
+buy_trigger_5 = -19.5
+buy_trigger_6 = -19.5
+buy_trigger_7 = -25.5
+
+
+
