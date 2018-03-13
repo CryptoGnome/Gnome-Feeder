@@ -1,4 +1,3 @@
-
 BB_period = 300
 BB_sma = 40
 
